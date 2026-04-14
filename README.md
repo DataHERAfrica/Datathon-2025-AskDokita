@@ -89,3 +89,7 @@ Test: Send an SMS to your Twilio number. It will hit your local backend!
 
 Expose Frontend: ngrok http 3000
 Update frontend/app/page.tsx to point to your Ngrok backend URL instead of localhost:8000.
+
+
+## Original Github repo
+https://github.com/niyeldeii/AskDokita
